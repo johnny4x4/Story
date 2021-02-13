@@ -1,0 +1,1 @@
+In this story, Chapter 2 is written to test version control using git.
